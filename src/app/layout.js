@@ -21,6 +21,9 @@ export const metadata = {
     title: 'GROUP BUY SEO TOOLS - SEO & Digital Marketing Agency',
     description: 'GROUP BUY SEO TOOLS - SEO & Digital Marketing Agency',
   },
+  verification: {
+    google: 'QR-UsdH2_azApMufem74fUWhV32vAVkdy1z_qxevapA',
+  },
 };
 
 export default function RootLayout({ children }) {
